@@ -42,6 +42,7 @@ SBI对处理器和板级资源进行了最初的屏蔽和抽象，为操作系�
 * 支持 Kendryte K210（含MMU和S模式）
 ### 文档
 
+[项目文档](https://github.com/13824125580/oscom/blob/master/allwinner_sbi.docx)
 
 ### 平台实现的注意事项
 * S模式的ecall指令需要delegate到M模式处理.
